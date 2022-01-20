@@ -4,6 +4,8 @@ submission for shopify intern challenge question.
 
 # requirements
 dependencies: django, pytest-django, pytest-factoryboy, pytest-factoryboy, pyteset-selenium, elasticsearch, pillow
+
+
 chrome webdriver: must have webdriver for your chrome version (for testing with selenium) (can find in chrome -> settings -> about chrome)
 
 # about the project

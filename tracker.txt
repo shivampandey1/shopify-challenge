@@ -1,0 +1,5 @@
+# virtualenv 
+virtualenv called 'sp_env', to activate the environment in terminal type 'source sp_env/bin/activate'
+dependencies: django, pytest-django, pytest-factoryboy, pytest-factoryboy, pyteset-selenium, elasticsearch, pillow
+chrome webdriver: must have webdriver for your chrome version (for testing with selenium) (can find in chrome -> settings -> about chrome)
+superuser: shiv, s25pande@uwaterloo.ca, pw: 1 (do not do this in prod obviously)
